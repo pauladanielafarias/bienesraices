@@ -1,7 +1,7 @@
-# Bienes raíces
+# :houses: Bienes raíces
 
 ## Página web para una inmobiliaria de bienes raíces
 
-### Este proyecto está hosteado en Foxit: [Bienes Raíces](http://cursofullstackphp.foxit.com.ar/comision2014/Paula_Daniela_Farias/bienes_raices/)
+### Este proyecto está hosteado en Foxit: :arrow_right_hook: [Bienes Raíces](http://cursofullstackphp.foxit.com.ar/comision2014/Paula_Daniela_Farias/bienes_raices/)
 
-- Esta página está hecha con HTML y CSS3
+- :computer: Esta página está hecha con HTML y CSS3

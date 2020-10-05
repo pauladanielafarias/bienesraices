@@ -1,6 +1,6 @@
 # :houses: Bienes raíces
 
-#### Página web para una inmobiliaria de bienes raíces.
+### Página web para una inmobiliaria de bienes raíces.
 #### Website for a real estate agency.
 - Página web en español / The website is in Spanish
 
@@ -13,6 +13,5 @@
 
 - **Link:** [Bienes Raíces](http://cursofullstackphp.foxit.com.ar/comision2014/Paula_Daniela_Farias/bienes_raices/)
 
----
 
-:woman_technologist: Developer: [Paula Farias](https://linkedin.com/in/paulafarias)
+#### :woman_technologist: **Developer:** [Paula Farias](https://linkedin.com/in/paulafarias)

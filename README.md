@@ -1,11 +1,17 @@
 # :houses: Bienes raíces
 
-## Página web para una inmobiliaria de bienes raíces
+#### Página web para una inmobiliaria de bienes raíces.
+#### Website for a real estate agency.
+- Página web en español / The website is in Spanish
 
-- Proyecto hosteado en **Foxit**: :arrow_right_hook: [Bienes Raíces](http://cursofullstackphp.foxit.com.ar/comision2014/Paula_Daniela_Farias/bienes_raices/)
-
-- :computer: Esta página está hecha con: 
-  - HTML
+### :computer: Tecnologías: 
+- **Front-end:** 
+  - HTML5
   - CSS3
+
+- **Deployed** en Foxit
+
+- **Link:** [Bienes Raíces](http://cursofullstackphp.foxit.com.ar/comision2014/Paula_Daniela_Farias/bienes_raices/)
+
 
 :woman_technologist: Programadora: [Paula Farias](https://linkedin.com/in/paulafarias)

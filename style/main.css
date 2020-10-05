@@ -1,0 +1,130 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+/*----- HEADER -----*/
+header{
+    background-image: url("../style/images/header.jpg");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 100vh; /* You must set a specified height */
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+/*- menu: links + logo -*/
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*- menu: logo -*/
+.logo{
+    margin-top: 5vh;
+}
+
+/*- menu: links -*/
+.nav_links{
+    margin-top: 5vh;
+}
+
+.nav_links a{
+    text-decoration: none;
+    color: white;
+    margin-left: 6vh;
+}
+
+.nav_links a:hover{
+    color: thistle;
+}
+
+/*- text -*/
+header h2{
+    margin-top: 70vh;
+    margin-left: 20vh;
+    color: white;
+}
+
+
+
+/*----- SECTION: MAS SOBRE NOSOTROS -----*/
+
+/*- section -*/
+#sobre_nosotros{
+    background-color: whitesmoke;
+    padding: 10vh;
+}
+/*- title -*/
+#sobre_nosotros h2{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+/*- divs -*/
+#sobre_nosotros div{
+    display: table-cell;
+    text-align: center;
+}
+
+/*- div titles -*/
+#sobre_nosotros div h3{
+    margin: 2vh;
+}
+
+
+/*----- SECTION: CASAS Y DEPAS EN VENTA -----*/
+
+/*- anuncios boxes -*/
+#anuncios{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+/*- each anuncio box -*/
+.anuncio{
+    width: 40vh;
+    height: 60vh;
+    background-color: grey;
+    margin: 10px;
+}
+
+#casas_en_venta h2{
+    margin: 5vh;
+    text-align: center;
+}
+
+
+
+
+/*----- FOOTER -----*/
+footer{
+    background-color: grey;
+    height: 70px;
+}
+footer div{
+    display: inline-block;
+    margin: 20px;
+}
+
+/*- menu: links -*/
+footer div a{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+footer div a:hover{
+    color: thistle;
+}
+
+/*- text -*/
+footer div p{
+    color: white;
+    text-align: right;
+}

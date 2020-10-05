@@ -1,11 +1,13 @@
 # :houses: Bienes raíces
 
-### Página web para una inmobiliaria de bienes raíces. || Website for a real estate agency.
-- Página web en español || The website is in Spanish
+### Página web para una inmobiliaria de bienes raíces. 
+- Página web en Español.
 
----
+#### Website for a real estate agency.
+- The website is in Spanish.
 
-### :computer: Tecnologías: 
+
+### :computer: Tecnologías utilizadas: 
 - **Front-end:** 
   - HTML5
   - CSS3

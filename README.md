@@ -14,7 +14,7 @@
 
 - **Deployed** en Foxit
 
-- **Link:** [Bienes Raíces](http://cursofullstackphp.foxit.com.ar/comision2014/Paula_Daniela_Farias/bienes_raices/)
+- **Link:** [Bienes Raíces](http://cursofullstackphp.foxit.com.ar/comision2014/Paula_Daniela_Farias/proyectos/bienes_raices/)
 
 
 #### :woman_technologist: **Developer:** [Paula Farias](https://linkedin.com/in/paulafarias)
